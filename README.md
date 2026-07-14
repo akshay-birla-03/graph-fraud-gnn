@@ -1,5 +1,7 @@
 # graph-fraud-gnn
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akshay-birla-03/graph-fraud-gnn/blob/main/notebooks/Run_in_Colab.ipynb)
+
 A **Graph Convolutional Network (GCN), implemented from scratch in PyTorch**, for
 **fraud-ring detection** on a financial transaction graph. Accounts are nodes,
 transactions are edges, and a small minority of accounts are fraudulent. The
